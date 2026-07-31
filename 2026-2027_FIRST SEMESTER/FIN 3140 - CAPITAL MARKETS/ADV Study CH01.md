@@ -58,6 +58,7 @@
 - **Holding period return (HPR)** - the return for the holding period
 
 $$HPR=\frac{Ending\ Value\ of\ Investment}{Beginning\ Value\ of\ Investment}$$
+
 Example, if you were to commit \$200 to an investment at the beginning of the year and you get back \$220 at the end of the year, ***what is your return for the period***?
 
 $$HPR=\frac{Ending\ Value\ of\ Investment}{Beginning\ Value\ of\ Investment}$$
@@ -70,7 +71,9 @@ The HPR for that period is **1.10**.
 - HPR Value > 1 = increase in wealth (profit)
 - HPR Value < 1 = decline in wealth (loss)
 - HPR is a **measure of return**
+
 ---
+
 #### HPY
 - investors generally evaluate returns in **PERCENTAGE TERMS** on an **ANNUAL BASIS**
 - **Holding Period Yield (HPY)** - HPR that is converted to a percentage rate (not yet annual)
@@ -78,8 +81,11 @@ The HPR for that period is **1.10**.
 $$ HPY=HPR-1$$
 
 In the example earlier:
+
 $$HPY=1.10-1$$
+
 $$HPY=0.10$$
+
 $$HPY=10\%$$
 
 To derive an annual HPY, you compute and annual HPR and then subtract by 1 (this means that the HPR Formula itself adjusts)
