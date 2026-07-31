@@ -128,6 +128,7 @@ $HPY=20\%$
 
 **A multiple-year loss over two years would look like so:**
 
+
 $HPR=\frac{Ending\ Value\ of\ Investment}{Beginning\ Value\ of\ Investment}=\frac{\$750}{\$1,000}=0.75$
 
 $Annual\ HPR=1.40^{1/n}=1.40^{1/2}=0.866$
